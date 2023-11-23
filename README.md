@@ -1,4 +1,4 @@
-# GIT-Training 
+# git-extensions - Training 
 
 ## Agenda 
 
