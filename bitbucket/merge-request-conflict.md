@@ -27,6 +27,7 @@ git push -u origin feature/5021
 ## Auflösen des Konflikts (im Branch feature/5021) 
 
 ```
+# Achtung bitte kein rebase 
 git pull origin master 
 # lösen den conflict 
 
